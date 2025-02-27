@@ -84,6 +84,7 @@
    Username: admin
    Password: admin
    ```
+![image](https://github.com/user-attachments/assets/4f6bd8dc-d354-4736-bd8d-5aa689f5e9c2)
 
 ---
 
