@@ -92,7 +92,6 @@
 ✅ **使用者登入驗證** (SQL Server 驗證)  
 ✅ **MVVM 架構分離 UI 和邏輯**  
 ✅ **XAML UI 設計 (WPF)**  
-✅ **使用 ADO.NET **  
 ✅ **使用 SQL Server 本機連線**  
 
 ---
