@@ -59,7 +59,7 @@
 3. 插入測試資料：
    ```sql
    INSERT INTO [dbo].[User] (Username, Password, Name, LastName, Email)
-   VALUES ('admin', 'admin', 'RJ', 'Code', 'rjcode@gmail.com');
+   VALUES ('admin', 'admin', 'Jay', 'Code', 'jay@gmail.com');
    ```
 ![image](https://github.com/user-attachments/assets/57a7d396-8fda-4a53-aa0e-ae19200315c9)
 
