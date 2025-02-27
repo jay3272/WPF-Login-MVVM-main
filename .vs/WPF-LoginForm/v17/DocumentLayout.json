@@ -7,23 +7,23 @@
       "RelativeMoniker": "D:0:0:{B88027D1-FD36-4AA4-8FE3-1803A15C3EF2}|WPF-LoginForm\\WPF-LoginForm.csproj|solutionrelative:wpf-loginform\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B88027D1-FD36-4AA4-8FE3-1803A15C3EF2}|WPF-LoginForm\\WPF-LoginForm.csproj|c:\\users\\jay_wu\\documents\\github\\wpf-login-mvvm-main\\wpf-loginform\\views\\dashboardview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "AbsoluteMoniker": "D:0:0:{B88027D1-FD36-4AA4-8FE3-1803A15C3EF2}|WPF-LoginForm\\WPF-LoginForm.csproj|C:\\Users\\Jay_Wu\\Documents\\GitHub\\WPF-Login-MVVM-main\\wpf-loginform\\views\\dashboardview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{B88027D1-FD36-4AA4-8FE3-1803A15C3EF2}|WPF-LoginForm\\WPF-LoginForm.csproj|solutionrelative:wpf-loginform\\views\\dashboardview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B88027D1-FD36-4AA4-8FE3-1803A15C3EF2}|WPF-LoginForm\\WPF-LoginForm.csproj|c:\\users\\jay_wu\\documents\\github\\wpf-login-mvvm-main\\wpf-loginform\\views\\loginview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "AbsoluteMoniker": "D:0:0:{B88027D1-FD36-4AA4-8FE3-1803A15C3EF2}|WPF-LoginForm\\WPF-LoginForm.csproj|C:\\Users\\Jay_Wu\\Documents\\GitHub\\WPF-Login-MVVM-main\\wpf-loginform\\views\\loginview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{B88027D1-FD36-4AA4-8FE3-1803A15C3EF2}|WPF-LoginForm\\WPF-LoginForm.csproj|solutionrelative:wpf-loginform\\views\\loginview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B88027D1-FD36-4AA4-8FE3-1803A15C3EF2}|WPF-LoginForm\\WPF-LoginForm.csproj|c:\\users\\jay_wu\\documents\\github\\wpf-login-mvvm-main\\wpf-loginform\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B88027D1-FD36-4AA4-8FE3-1803A15C3EF2}|WPF-LoginForm\\WPF-LoginForm.csproj|C:\\Users\\Jay_Wu\\Documents\\GitHub\\WPF-Login-MVVM-main\\wpf-loginform\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B88027D1-FD36-4AA4-8FE3-1803A15C3EF2}|WPF-LoginForm\\WPF-LoginForm.csproj|solutionrelative:wpf-loginform\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B88027D1-FD36-4AA4-8FE3-1803A15C3EF2}|WPF-LoginForm\\WPF-LoginForm.csproj|c:\\users\\jay_wu\\documents\\github\\wpf-login-mvvm-main\\wpf-loginform\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B88027D1-FD36-4AA4-8FE3-1803A15C3EF2}|WPF-LoginForm\\WPF-LoginForm.csproj|C:\\Users\\Jay_Wu\\Documents\\GitHub\\WPF-Login-MVVM-main\\wpf-loginform\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B88027D1-FD36-4AA4-8FE3-1803A15C3EF2}|WPF-LoginForm\\WPF-LoginForm.csproj|solutionrelative:wpf-loginform\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B88027D1-FD36-4AA4-8FE3-1803A15C3EF2}|WPF-LoginForm\\WPF-LoginForm.csproj|c:\\users\\jay_wu\\documents\\github\\wpf-login-mvvm-main\\wpf-loginform\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B88027D1-FD36-4AA4-8FE3-1803A15C3EF2}|WPF-LoginForm\\WPF-LoginForm.csproj|C:\\Users\\Jay_Wu\\Documents\\GitHub\\WPF-Login-MVVM-main\\wpf-loginform\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B88027D1-FD36-4AA4-8FE3-1803A15C3EF2}|WPF-LoginForm\\WPF-LoginForm.csproj|solutionrelative:wpf-loginform\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -50,8 +50,7 @@
               "RelativeToolTip": "WPF-LoginForm\\Views\\LoginView.xaml.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T09:39:08.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T09:39:08.732Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "WPF-LoginForm\\Views\\DashboardView.xaml.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T09:38:51.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T09:38:51.819Z"
             },
             {
               "$type": "Document",
@@ -75,8 +73,7 @@
               "ToolTip": "C:\\Users\\Jay_Wu\\Documents\\GitHub\\WPF-Login-MVVM-main\\WPF-LoginForm\\Views\\DashboardView.xaml",
               "RelativeToolTip": "WPF-LoginForm\\Views\\DashboardView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-27T09:35:48.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T09:35:48.069Z"
             },
             {
               "$type": "Document",
@@ -87,8 +84,7 @@
               "ToolTip": "C:\\Users\\Jay_Wu\\Documents\\GitHub\\WPF-Login-MVVM-main\\WPF-LoginForm\\Views\\MainView.xaml",
               "RelativeToolTip": "WPF-LoginForm\\Views\\MainView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-27T09:30:13.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T09:30:13.851Z"
             },
             {
               "$type": "Document",
@@ -100,8 +96,7 @@
               "RelativeToolTip": "WPF-LoginForm\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAwwBwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T09:28:21.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T09:28:21.577Z"
             },
             {
               "$type": "Document",
