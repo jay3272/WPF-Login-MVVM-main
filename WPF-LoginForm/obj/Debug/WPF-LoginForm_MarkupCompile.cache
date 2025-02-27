@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Jay_Wu\Downloads\Login-In-WPF-MVVM-C-Sharp-and-SQL-Server-main\Login-In-WPF-MVVM-C-Sharp-and-SQL-Server-main\WPF-LoginForm\obj\Debug\
+C:\Users\Jay_Wu\Documents\GitHub\WPF-Login-MVVM-main\WPF-LoginForm\obj\Debug\
 WPF_LoginForm
 none
 false
 DEBUG;TRACE
-C:\Users\Jay_Wu\Downloads\Login-In-WPF-MVVM-C-Sharp-and-SQL-Server-main\Login-In-WPF-MVVM-C-Sharp-and-SQL-Server-main\WPF-LoginForm\App.xaml
-3-592061816
+C:\Users\Jay_Wu\Documents\GitHub\WPF-Login-MVVM-main\WPF-LoginForm\App.xaml
+4-1087619723
 
-161360004801
+181068175801
 131559000939
-CustomControls\BindablePasswordBox.xaml;Views\LoginView.xaml;Views\MainView.xaml;
+CustomControls\BindablePasswordBox.xaml;Views\DashboardView.xaml;Views\LoginView.xaml;Views\MainView.xaml;
 
 False
 

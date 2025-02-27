@@ -22,8 +22,10 @@ namespace WPF_LoginForm
               {
                   if (loginView.IsVisible == false && loginView.IsLoaded)
                   {
-                      var mainView = new MainView();
-                      mainView.Show();
+                      //var mainView = new MainView();
+                      //mainView.Show();
+                      var DashboardView = new DashboardView();
+                      DashboardView.Show();
                       loginView.Close();
                   }
               };
